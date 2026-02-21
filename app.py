@@ -692,10 +692,10 @@ with st.expander("ℹ️ Guide d'utilisation et conseils"):
 # PIED DE PAGE
 # ============================================================
 st.markdown('<div class="footer">', unsafe_allow_html=True)
-st.markdown(""|
+st.markdown("
  Propulsé par Mistral AI |  Version pédagogique ivoirienne
 Dernière mise à jour : Février 2026
-"")
+")
 st.markdown('</div>', unsafe_allow_html=True)
 
 # ============================================================
